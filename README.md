@@ -1,4 +1,4 @@
-# ECP_Bed
+# ECP Bed
 
 ![ECP_Bed-1](https://user-images.githubusercontent.com/83417785/160302810-40d0de04-557f-4aff-8b74-64772f1acacf.png)
 ![ECP_Bed-2](https://user-images.githubusercontent.com/83417785/160302811-57948d12-379e-4d50-b296-9e1854ebbca4.png)
